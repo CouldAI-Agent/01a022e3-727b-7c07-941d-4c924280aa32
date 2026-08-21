@@ -274,7 +274,7 @@ class _CaptionGeneratorScreenState extends State<CaptionGeneratorScreen> {
                   decoration: BoxDecoration(
                     color: Colors.white,
                     borderRadius: BorderRadius.circular(16),
-                    border: BorderSide(color: Colors.grey.shade200),
+                    border: Border.all(color: Colors.grey.shade200),
                     boxShadow: const [
                       BoxShadow(
                         color: Colors.black12,
